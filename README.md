@@ -29,7 +29,7 @@ an unrecognized type.
 | AotE Kits and Add-Ons | Theme kits and Challenge Add-Ons |
 | AotE Narrator Notes | The escalation tracker board |
 
-Version 0.1.1.
+Version 0.1.2.
 
 ## Notice
 
