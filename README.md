@@ -18,8 +18,10 @@ https://synth-rabbit.github.io/aote-dawn-module/module.json
 
 On Sqyre: game detail page, **MANAGE GAME**, **Manage Modules**, same field.
 
-Install the **Legend in the Mist** system first. Without it every actor opens as
-an unrecognized type.
+Install the **Legend in the Mist** system first, at **version 14.5.0 or later**.
+Without it every actor opens as an unrecognized type, and on a system older than
+14.5.0 the Rotes install and list but throw when opened, because the `rote` type
+did not exist before that release.
 
 ## Contents
 
@@ -32,7 +34,7 @@ an unrecognized type.
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
 | Narrator Notes | The escalation tracker board |
 
-Version 0.4.0.
+Version 0.4.1.
 
 ## Notice
 
