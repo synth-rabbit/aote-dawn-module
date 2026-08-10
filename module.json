@@ -2,7 +2,7 @@
   "id": "aote-dawn",
   "title": "Ashes of the Eclipse: Dawn of Darkness",
   "description": "Campaign content for Ashes of the Eclipse, Act I.",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -90,6 +90,19 @@
       }
     },
     {
+      "name": "aote-scenes",
+      "label": "Scenes",
+      "path": "packs/aote-scenes",
+      "type": "Scene",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "aote-journal",
       "label": "Narrator Notes",
       "path": "packs/aote-journal",
@@ -114,10 +127,11 @@
         "aote-addons",
         "aote-rotes",
         "aote-tables",
+        "aote-scenes",
         "aote-journal"
       ]
     }
   ],
   "manifest": "https://synth-rabbit.github.io/aote-dawn-module/module.json",
-  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.4.1.zip"
+  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.5.0.zip"
 }

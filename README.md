@@ -32,9 +32,10 @@ did not exist before that release.
 | Challenge Add-ons | Challenge Add-Ons |
 | Rotes | Rotes, three from the traditions of magic and two from neither |
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
+| Scenes | Act I stages, gridless, for standing cutout figures on |
 | Narrator Notes | The escalation tracker board |
 
-Version 0.4.1.
+Version 0.5.0.
 
 ## Notice
 
