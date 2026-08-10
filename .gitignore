@@ -1,1 +1,4 @@
 .DS_Store
+packs/*/LOCK
+packs/*/LOG
+packs/*/LOG.old
