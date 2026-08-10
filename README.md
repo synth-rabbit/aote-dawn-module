@@ -25,11 +25,14 @@ an unrecognized type.
 
 | Pack | Holds |
 |---|---|
-| AotE Challenges and Allies | Challenge profiles, ally NPCs, and Journeys with their Vignettes |
-| AotE Kits and Add-Ons | Theme kits and Challenge Add-Ons |
-| AotE Narrator Notes | The escalation tracker board |
+| Actors | Challenge profiles, ally NPCs, and Journeys with their Vignettes |
+| ThemeKits | Theme kits, foldered by the core book's theme types |
+| Challenge Add-ons | Challenge Add-Ons |
+| Rotes | Rotes, three from the traditions of magic and two from neither |
+| Tables | The two oracles, the NPC and room generators, and the name lists by culture |
+| Narrator Notes | The escalation tracker board |
 
-Version 0.3.0.
+Version 0.4.0.
 
 ## Notice
 
