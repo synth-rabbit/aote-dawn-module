@@ -2,7 +2,7 @@
   "id": "aote-dawn",
   "title": "Ashes of the Eclipse: Dawn of Darkness",
   "description": "Campaign content for Ashes of the Eclipse, Act I.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -23,26 +23,56 @@
   "packs": [
     {
       "name": "aote-actors",
-      "label": "AotE Challenges and Allies",
+      "label": "Challenges and Allies",
       "path": "packs/aote-actors",
       "type": "Actor",
-      "system": "mist-engine-fvtt"
+      "system": "mist-engine-fvtt",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "name": "aote-items",
-      "label": "AotE Kits and Add-Ons",
+      "label": "Theme Kits and Add-Ons",
       "path": "packs/aote-items",
       "type": "Item",
-      "system": "mist-engine-fvtt"
+      "system": "mist-engine-fvtt",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "name": "aote-journal",
-      "label": "AotE Narrator Notes",
+      "label": "Narrator Notes",
       "path": "packs/aote-journal",
       "type": "JournalEntry",
-      "system": "mist-engine-fvtt"
+      "system": "mist-engine-fvtt",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Ashes of the Eclipse: Dawn of Darkness",
+      "sorting": "m",
+      "color": "#5b2333",
+      "packs": [
+        "aote-actors",
+        "aote-items",
+        "aote-journal"
+      ]
     }
   ],
   "manifest": "https://synth-rabbit.github.io/aote-dawn-module/module.json",
-  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.3.zip"
+  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.4.zip"
 }
