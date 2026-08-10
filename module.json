@@ -2,7 +2,7 @@
   "id": "aote-dawn",
   "title": "Ashes of the Eclipse: Dawn of Darkness",
   "description": "Campaign content for Ashes of the Eclipse, Act I.",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -23,29 +23,42 @@
   "packs": [
     {
       "name": "aote-actors",
-      "label": "Challenges and Allies",
+      "label": "Actors",
       "path": "packs/aote-actors",
       "type": "Actor",
       "system": "mist-engine-fvtt",
+      "flags": {},
       "ownership": {
         "PLAYER": "NONE",
         "TRUSTED": "NONE",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
-      "name": "aote-items",
-      "label": "Theme Kits and Add-Ons",
-      "path": "packs/aote-items",
+      "name": "aote-themekits",
+      "label": "ThemeKits",
+      "path": "packs/aote-themekits",
       "type": "Item",
       "system": "mist-engine-fvtt",
+      "flags": {},
       "ownership": {
         "PLAYER": "OBSERVER",
         "TRUSTED": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
+    },
+    {
+      "name": "aote-addons",
+      "label": "Challenge Add-ons",
+      "path": "packs/aote-addons",
+      "type": "Item",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "aote-journal",
@@ -53,12 +66,12 @@
       "path": "packs/aote-journal",
       "type": "JournalEntry",
       "system": "mist-engine-fvtt",
+      "flags": {},
       "ownership": {
         "PLAYER": "NONE",
         "TRUSTED": "NONE",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     }
   ],
   "packFolders": [
@@ -68,11 +81,12 @@
       "color": "#5b2333",
       "packs": [
         "aote-actors",
-        "aote-items",
+        "aote-themekits",
+        "aote-addons",
         "aote-journal"
       ]
     }
   ],
   "manifest": "https://synth-rabbit.github.io/aote-dawn-module/module.json",
-  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.7.zip"
+  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.8.zip"
 }
