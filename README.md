@@ -35,7 +35,7 @@ did not exist before that release.
 | Scenes | Act I stages, gridless, for standing cutout figures on |
 | Narrator Notes | The escalation tracker board |
 
-Version 0.5.0.
+Version 0.5.1.
 
 ## Notice
 
