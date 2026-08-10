@@ -2,7 +2,7 @@
   "id": "aote-dawn",
   "title": "Ashes of the Eclipse: Dawn of Darkness",
   "description": "Campaign content for Ashes of the Eclipse, Act I.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -11,11 +11,15 @@
     "systems": [
       {
         "id": "mist-engine-fvtt",
-        "type": "system",
-        "manifest": ""
+        "type": "system"
       }
     ]
   },
+  "authors": [
+    {
+      "name": "synth-rabbit"
+    }
+  ],
   "packs": [
     {
       "name": "aote-actors",
@@ -40,5 +44,5 @@
     }
   ],
   "manifest": "https://synth-rabbit.github.io/aote-dawn-module/module.json",
-  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.0.zip"
+  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.1.1.zip"
 }
