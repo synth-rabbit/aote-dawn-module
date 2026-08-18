@@ -34,8 +34,9 @@ did not exist before that release.
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
 | Scenes | Gridless: three Act I stages to stand cutouts on, the continent, and two places |
 | Narrator Notes | The landing page and the escalation tracker board |
+| The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.6.0.
+Version 0.7.0.
 
 ## Notice
 

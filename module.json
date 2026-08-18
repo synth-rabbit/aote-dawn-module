@@ -2,7 +2,7 @@
   "id": "aote-dawn",
   "title": "Ashes of the Eclipse: Dawn of Darkness",
   "description": "Campaign content for Ashes of the Eclipse, Act I.",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -114,6 +114,19 @@
         "TRUSTED": "NONE",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "aote-guide",
+      "label": "The Traveler's Guide",
+      "path": "packs/aote-guide",
+      "type": "JournalEntry",
+      "system": "mist-engine-fvtt",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "TRUSTED": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -128,10 +141,11 @@
         "aote-rotes",
         "aote-tables",
         "aote-scenes",
-        "aote-journal"
+        "aote-journal",
+        "aote-guide"
       ]
     }
   ],
   "manifest": "https://synth-rabbit.github.io/aote-dawn-module/module.json",
-  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.6.0.zip"
+  "download": "https://synth-rabbit.github.io/aote-dawn-module/aote-dawn-0.7.0.zip"
 }
