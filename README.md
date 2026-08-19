@@ -36,7 +36,7 @@ did not exist before that release.
 | Narrator Notes | The landing page and the escalation tracker board |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.7.2.
+Version 0.7.3.
 
 ## Notice
 
