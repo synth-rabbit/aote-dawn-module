@@ -33,10 +33,10 @@ did not exist before that release.
 | Rotes | Rotes, three from the traditions of magic and two from neither |
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
 | Scenes | Gridless: three Act I stages to stand cutouts on, the continent, and two places |
-| Narrator Notes | The landing page and the escalation tracker board |
+| Narrator Notes | The landing page, escalation tracker board, and Session Art prop gallery |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.7.4.
+Version 0.7.5.
 
 ## Notice
 
