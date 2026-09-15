@@ -1,0 +1,8 @@
+{
+  "TYPES.Actor.aote-dawn.prop": "Prop",
+  "AOTE.PropSheet": "Prop",
+  "AOTE.Name": "Name",
+  "AOTE.Image": "Image path",
+  "AOTE.Description": "Description",
+  "AOTE.Placement": "Drag this Actor from the Actors sidebar onto a Scene. Use Prototype Token to set its default size; configure a placed token to resize that copy. A Prop has no combat or vehicle rules."
+}

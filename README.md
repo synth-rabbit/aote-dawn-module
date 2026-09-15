@@ -27,16 +27,27 @@ did not exist before that release.
 
 | Pack | Holds |
 |---|---|
-| Actors | Challenge profiles, ally NPCs, and Journeys with their Vignettes |
+| Actors | Challenge profiles, ally NPCs, Journeys with their Vignettes, and placeable Props |
 | ThemeKits | Theme kits, foldered by the core book's theme types |
 | Challenge Add-ons | Challenge Add-Ons |
 | Rotes | Rotes, three from the traditions of magic and two from neither |
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
-| Scenes | Gridless: three Act I stages to stand cutouts on, the continent, and two places |
+| Scenes | Gridless Vermalla and Ishar stages, the continent, and setting views |
 | Narrator Notes | The landing page, escalation tracker board, and Session Art prop gallery |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.7.5.
+Version 0.8.0.
+
+## Placeable props
+
+With this module enabled, **Create Actor** includes **Prop**. Import **Stag and
+Travel Cart**, **Freight Cart**, or **Marked Bundles** from the Actors pack, then
+drag it from your world Actors sidebar onto a Scene. Configure Prototype Token
+for default size. Props have no automatic vehicle or combat rules. Session Art
+also includes instructions for placing the same images as Tiles.
+
+After updating, import new Scenes and Actors as needed. Existing world copies are
+not updated automatically; compare them before replacing campaign changes.
 
 ## Notice
 

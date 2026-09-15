@@ -1,0 +1,8 @@
+<form class="aote-prop-form" autocomplete="off">
+  <img src="{{actor.img}}" alt="{{actor.name}}" style="display:block;max-width:100%;height:210px;object-fit:contain;margin:0 auto 12px;border:0">
+  <label>{{localize "AOTE.Name"}} <input name="name" type="text" value="{{actor.name}}" {{#unless editable}}disabled{{/unless}}></label>
+  <label>{{localize "AOTE.Image"}} <input name="img" type="text" value="{{actor.img}}" {{#unless editable}}disabled{{/unless}}></label>
+  <label for="{{appId}}-description">{{localize "AOTE.Description"}}</label>
+  <textarea id="{{appId}}-description" name="system.description" rows="6" style="resize:vertical;min-height:100px" {{#unless editable}}disabled{{/unless}}>{{system.description}}</textarea>
+  <p>{{localize "AOTE.Placement"}}</p>
+</form>
