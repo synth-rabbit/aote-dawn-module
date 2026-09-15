@@ -36,12 +36,13 @@ did not exist before that release.
 | Narrator Notes | The landing page, escalation tracker board, and Session Art prop gallery |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.8.1.
+Version 0.8.2.
 
 ## Placeable props
 
 With this module enabled, **Create Actor** includes **Prop**. Import **Stag and
-Travel Cart**, **Freight Cart**, or **Marked Bundles** from the Actors pack, then
+Travel Cart**, **Vehicle Ferry**, **Small Consignment**, **Ferrywoman**, or the
+other Props from the Actors pack, then
 drag it from your world Actors sidebar onto a Scene. Configure Prototype Token
 for default size. Props have no automatic vehicle or combat rules. Session Art
 also includes instructions for placing the same images as Tiles.
