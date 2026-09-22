@@ -36,7 +36,7 @@ did not exist before that release.
 | Narrator Notes | The landing page, escalation tracker board, and Session Art prop gallery |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.8.3.
+Version 0.8.4.
 
 ## Placeable props
 
