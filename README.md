@@ -32,11 +32,11 @@ did not exist before that release.
 | Challenge Add-ons | Challenge Add-Ons |
 | Rotes | Rotes, three from the traditions of magic and two from neither |
 | Tables | The two oracles, the NPC and room generators, and the name lists by culture |
-| Scenes | Gridless Vermalla and Ishar stages, the continent, and setting views |
+| Scenes | Gridless campaign stages, a Generic Scenes folder, the continent, and setting views |
 | Narrator Notes | The landing page, escalation tracker board, and Session Art prop gallery |
 | The Traveler's Guide | A Traveler's Guide to Elythra, the players' own book, ten entries |
 
-Version 0.8.2.
+Version 0.8.3.
 
 ## Placeable props
 
